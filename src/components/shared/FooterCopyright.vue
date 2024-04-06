@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template>
-	<div class="flex justify-center items-center text-center">
+	<div class="flex justify-center items-center text-center bg-gray-400 ">
 		<div
 			class="font-general-regular text-lg text-ternary-dark dark:text-ternary-light"
 		>

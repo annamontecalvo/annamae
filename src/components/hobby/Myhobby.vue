@@ -6,12 +6,13 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Name: Anna Mae Montecalvo',
+						'Hobby:',
 				},
 				{
 					id: 2,
 					bio:
-						'From: Ibabao, Agus LapuLapu City 20 years of age Studied Bachelor of science in information technology',
+						'My Hobbies when I do not have a class is: Reading and sleeping. ',
+                       
 				},
 			],
 		};

@@ -28,5 +28,5 @@
   </script>
 
   <style>
-  /* Your global styles */
+
   </style>
